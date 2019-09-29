@@ -34,4 +34,8 @@ pip install torchvision
   ```
 pip install -r requirements.txt
   ```
+6. In case you want to run __Image_classification_with_tensor_flow__ as well you need to install tensorflow.
+  ```
+pip install tensorflow
+  ```
 
